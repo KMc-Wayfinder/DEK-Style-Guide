@@ -130,7 +130,7 @@ h1 {
   line-height: 1.2;
   margin: 0 0 .4em;
 }
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 1024px) {
   h1 {
     font-size: 3.2rem;
   }
@@ -146,7 +146,7 @@ h2 {
   text-transform: uppercase;
   margin: 1em 0;
 }
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 1024px) {
   h2 {
     font-size: 1.8rem;
     margin: 1em 0 1.4em;
@@ -167,7 +167,7 @@ p a {
   color: #5f8ee4;
   text-decoration: underline;
 }
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 1024px) {
   p {
     font-size: 1.6rem;
     line-height: 1.6;
@@ -217,7 +217,7 @@ xButtons
   color: #ffffff;
   background: #5f8ee4;
 }
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 1024px) {
   .btn {
     font-size: 1.6rem;
   }
@@ -724,7 +724,7 @@ section:nth-of-type(5) h2::before {
 section:nth-of-type(6) h2::before {
   content: '6. ';
 }
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 1024px) {
   section {
     margin: 3em 0 5em;
   }
@@ -775,7 +775,7 @@ section:nth-of-type(6) h2::before {
   height: 16px;
   border-radius: .2em;
 }
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 1024px) {
   .cd-branding .cd-box {
     width: 49%;
     float: left;
@@ -897,7 +897,7 @@ section:nth-of-type(6) h2::before {
   background: #000000;
 }
 
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 1024px) {
   .cd-colors li {
     width: 19%;
     float: left;
@@ -917,7 +917,7 @@ section:nth-of-type(6) h2::before {
 .cd-form .cd-box {
   padding: 1em;
 }
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 1024px) {
   .cd-typography .cd-box .cd-box,
   .cd-buttons .cd-box .cd-box,
   .cd-icons .cd-box .cd-box,
