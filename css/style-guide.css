@@ -6,6 +6,7 @@ xBackground
 body {
   /* this is the page background */
   background-color: #ffffff;
+  font-family: 'Poppins', sans-serif !important;
 }
 
 /* -------------------------------- 
@@ -1016,4 +1017,9 @@ font-weight: 700;
 
   .poppins {
     font-family: 'Poppins', sans-serif;
+  }
+
+  .navicon {
+    height: 150px;
+    width: 600px !important; 
   }
