@@ -1013,3 +1013,7 @@ font-weight: 700;
   font-size: 16px;
   font-weight: 400;
   }
+
+  .poppins {
+    font-family: 'Poppins', sans-serif;
+  }
